@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Malaysia, covering official tourism boards, transport networks, regional guides, national parks, and digital nomad resources.
 
+Malaysia is a culturally diverse Southeast Asian destination bridging the Malay Peninsula and the island of Borneo, renowned for its modern capital, ancient rainforests, and multicultural culinary heritage. This list is intended for international travelers, digital nomads, wildlife explorers, and cultural heritage researchers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
